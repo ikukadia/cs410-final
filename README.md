@@ -2,7 +2,7 @@
 
 ## Implemented features
 - Who sends/receives the most reacts and what reacts they send/receive and to/from whom
-- Messages with at least a certain amount of reacts (most reacted messages)
+- Messages with at least a certain amount of reacts (and what those reacts were/who reacted with them)
 - Most misspelled words
 - Who starts the most number of polls
 - Most mentioned (@) 
