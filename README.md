@@ -18,10 +18,7 @@
 6. Pretty print stats
 7. Most used words (*) -- without stop words, unique (least used) words
 8. 
-9. Ignored messages:
-	factors to consider:
-        ..* time elapsed between given message and next occurring message
-        ..* whether next occurring message contains the same words/phrases (to see if next message was actually relevant to given message)
+9. Ignored messages: ..* time elapsed between given message and next occurring message ..* whether next occurring message contains the same words/phrases (to see if next message was actually relevant to given message)
 10. Analysis of visual media (who uses the most stickers, GIFs, etc.)
 11. Who starts the most number of polls
 12. 
