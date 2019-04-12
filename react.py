@@ -1,4 +1,5 @@
-import json 
+from __future__ import division
+import json
 
 reacts = {
     "love": u'\xf0\x9f\x98\x8d',
@@ -56,13 +57,11 @@ def senders_of_react(data, react):
                     mydict[user] = 1
     return mydict
 
+# Returns either receiver of react or sender of react
 def users_vs_reacts(data, receive):
     mydict = {}
     for name, react in reacts.items():
-        if receive == 1:
-            mydict[name] = receivers_of_react(data, react)
-        else:
-            mydict[name] = senders_of_react(data, react)
+        mydict[name] = receivers_of_react(data, react) if receive else senders_of_react(data, react)
     return mydict
     
 # Return messages with most reacts
@@ -75,7 +74,6 @@ def messages_with_most_reacts(data):
     maxct = max(val for val in mydict.values())
     return [key for key, val in mydict.items() if val == maxct]
     
-
 # Take in a user and return the frequency of reacts they received
 def reacts_for_user(data, target):
     mydict = {}
@@ -113,7 +111,7 @@ def main():
     with open('dont_commit.json') as f:
         data = json.load(f)
     
-    mydict = users_vs_reacts(data, 1)
+    mydict = num_reacts_per_user(data)
     for k, v in mydict.items():
         print(k, v)
 
