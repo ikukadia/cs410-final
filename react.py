@@ -1,13 +1,14 @@
 import json
 
-# REACTS
-# "love" = "\xf0\x9f\x98\x8d"
-# "haha" = "\xf0\x9f\x98\x86"
-# "wow" = "\xf0\x9f\x98\xae" 
-# "sad" = "\xf0\x9f\x98\xa2"
-# "angry" = "\xf0\x9f\x98\xa0"
-# "like" = "\xf0\x9f\x91\x8d"
-# "dislike" = "\xf0\x9f\x91\x8e"
+reacts = {
+    "love": u'\xf0\x9f\x98\x8d',
+    "haha": u'\xf0\x9f\x98\x86',
+    "wow": u'\xf0\x9f\x98\xae', 
+    "sad": u'\xf0\x9f\x98\xa2',
+    "angry": u'\xf0\x9f\x98\xa0',
+    "like": u'\xf0\x9f\x91\x8d',
+    "dislike": u'\xf0\x9f\x91\x8e',
+}
 
 # Maps messages to their reacts/the reacts' actors
 def init_react_dict(data, user):
@@ -44,7 +45,7 @@ def num_messages_per_user(data):
     return mydict
 
 # Take in react and return user who received most reacts of that type
-def users_with_reacts(data, react):
+def receivers_of_react(data, react):
     mydict = {}
     user_dict = init_user_dict(data)
     for user, reacts in user_dict.items():
@@ -54,6 +55,29 @@ def users_with_reacts(data, react):
                     mydict[user] += 1
                 else:
                     mydict[user] = 1
+    return mydict
+
+# Take in react and return user who sent most reacts of that type
+def senders_of_react(data, react):
+    mydict = {}
+    user_dict = init_user_dict(data)
+    for user, reacts in user_dict.items():
+        for content, meta in reacts.items():
+            if (meta["react"] == react):
+                user = meta["actor"]
+                if user in mydict:
+                    mydict[user] += 1
+                else:
+                    mydict[user] = 1
+    return mydict
+
+def users_vs_reacts(data, receive):
+    mydict = {}
+    for name, react in reacts.items():
+        if receive == 1:
+            mydict[name] = receivers_of_react(data, react)
+        else:
+            mydict[name] = senders_of_react(data, react)
     return mydict
     
 # Return messages with most reacts
@@ -103,6 +127,10 @@ def num_reacts_by_actor(data, target):
 def main():
     with open('dont_commit.json') as f:
         data = json.load(f)
+    
+    mydict = users_vs_reacts(data, 1)
+    for k, v in mydict.items():
+        print(k, v)
 
 if __name__ == '__main__':
     main()
