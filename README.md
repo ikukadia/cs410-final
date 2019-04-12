@@ -17,7 +17,7 @@
 5. Visualization?
 6. Pretty print stats
 7. Most used words (*) -- without stop words, unique (least used) words
-8. 
+8. Most misspelled words
 9. Ignored messages: 
    * time elapsed between given message and next occurring message
    * whether next occurring message contains the same words/phrases (to see if next message was actually relevant to given message)
