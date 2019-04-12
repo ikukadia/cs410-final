@@ -29,21 +29,6 @@ def init_user_dict(data):
         mydict[user] = init_react_dict(data, user)
     return mydict
 
-# Calculates the number of messages participants send
-def num_messages_per_user(data):
-    mydict = {}
-    participants = data["participants"]
-    messages = data["messages"]
-    for participant in participants:
-        for message in messages:
-            user = message["sender_name"]
-            if (user == participant["name"]):
-                if user in mydict:
-                    mydict[user] += 1
-                else:
-                    mydict[user] = 1
-    return mydict
-
 # Take in react and return user who received most reacts of that type
 def receivers_of_react(data, react):
     mydict = {}
