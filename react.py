@@ -36,29 +36,29 @@ def num_messages_per_user(data):
     messages = data["messages"]
     for participant in participants:
         for message in messages:
-            user = message["sender_name"]
-            if (user == participant["name"]):
-                if user in mydict:
-                    mydict[user] += 1
-                else:
-                    mydict[user] = 1
+            if "content" in message:
+                user = message["sender_name"]
+                if (user == participant["name"]):
+                    if user in mydict:
+                        mydict[user] += 1
+                    else:
+                        mydict[user] = 1
     return mydict
 
 # Calculates the number of reacts participants send
 def num_reacts_per_user(data):
     mydict = {}
     participants = data["participants"]
-    messages = data["messages"]
+    user_dict = init_user_dict(data)
     for participant in participants:
-        for message in messages:
-            if "content" in message and "reactions" in message:
-                for react in message["reactions"]:
-                    actor = react["actor"]
-                    if participant["name"] == actor:
-                        if actor in mydict:
-                            mydict[actor] += 1
-                        else:
-                            mydict[actor] = 1
+        for user, reacts in user_dict.items():
+            for content, meta in reacts.items():
+                actor = meta["actor"]
+                if actor == participant["name"]:
+                    if actor in mydict:
+                        mydict[actor] += 1
+                    else:
+                        mydict[actor] = 1
     return mydict
 
 # Return message(s) with at least minct reacts
@@ -112,8 +112,22 @@ def reacts_for_user(data, target):
                     mydict[react] = 1
     return mydict
 
+# Take in a user and return the frequency of reacts they sent
+def reacts_by_user(data, target):
+    mydict = {}
+    user_dict = init_user_dict(data)
+    for user, reacts in user_dict.items():
+        for content, meta in reacts.items():
+            if meta["actor"] == target:
+                react = list(reactions.keys())[list(reactions.values()).index(meta["react"])]
+                if react in mydict:
+                    mydict[react] += 1
+                else:
+                    mydict[react] = 1
+    return mydict
+
 # Take in a user and return the a dictionary of the people who reacted to them and what they reacted
-def num_reacts_by_actor(data, target):
+def num_reacts_by_actor_for_user(data, target):
     mydict = {}
     user_dict = init_user_dict(data)
     for user, reacts in user_dict.items():
@@ -129,6 +143,24 @@ def num_reacts_by_actor(data, target):
                 else:
                     mydict[actor] = {}
                     mydict[actor][react] = 1
+    return mydict
+
+# Take in a user and return the a dictionary of the people who they reacted to and what they reacted
+def num_reacts_by_actor_by_user(data, target):
+    mydict = {}
+    user_dict = init_user_dict(data)
+    for user, reacts in user_dict.items():
+        for content, meta in reacts.items():
+            if meta["actor"] == target:
+                react = list(reactions.keys())[list(reactions.values()).index(meta["react"])]
+                if user in mydict:
+                    if react in mydict[user]:
+                        mydict[user][react] += 1
+                    else:
+                        mydict[user][react] = 1
+                else:
+                    mydict[user] = {}
+                    mydict[user][react] = 1
     return mydict
 
 # Loop over reacts and call a method (that takes in a react)
@@ -156,7 +188,9 @@ def main():
     # mydict = react_loop(data, receivers_of_react)
     # mydict = react_loop(data, senders_of_react)
     # mydict = user_loop(data, reacts_for_user)
-    mydict = user_loop(data, num_reacts_by_actor)
+    # mydict = user_loop(data, reacts_by_user)
+    # mydict = user_loop(data, num_reacts_by_actor_for_user)
+    mydict = user_loop(data, num_reacts_by_actor_by_user)
 
     for k, v in mydict.items():
         # print(k, v)
