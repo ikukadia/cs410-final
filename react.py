@@ -1,7 +1,6 @@
-from __future__ import division
 import json
 
-reacts = {
+reactions = {
     "love": u'\xf0\x9f\x98\x8d',
     "haha": u'\xf0\x9f\x98\x86',
     "wow": u'\xf0\x9f\x98\xae', 
@@ -30,7 +29,49 @@ def init_user_dict(data):
         mydict[user] = init_react_dict(data, user)
     return mydict
 
-# Take in react and return user who received most reacts of that type
+# Calculates the number of messages participants send
+def num_messages_per_user(data):
+    mydict = {}
+    participants = data["participants"]
+    messages = data["messages"]
+    for participant in participants:
+        for message in messages:
+            user = message["sender_name"]
+            if (user == participant["name"]):
+                if user in mydict:
+                    mydict[user] += 1
+                else:
+                    mydict[user] = 1
+    return mydict
+
+# Calculates the number of reacts participants send
+def num_reacts_per_user(data):
+    mydict = {}
+    participants = data["participants"]
+    messages = data["messages"]
+    for participant in participants:
+        for message in messages:
+            if "content" in message and "reactions" in message:
+                for react in message["reactions"]:
+                    actor = react["actor"]
+                    if participant["name"] == actor:
+                        if actor in mydict:
+                            mydict[actor] += 1
+                        else:
+                            mydict[actor] = 1
+    return mydict
+
+# Return message(s) with at least minct reacts
+def messages_with_at_least_min_reacts(data, minct):
+    mydict = {}
+    messages = data["messages"]
+    for message in messages:
+        if "content" in message and "reactions" in message:
+            mydict[message["content"]] = len(message["reactions"])
+    # maxct = max(val for val in mydict.values())
+    return {key: val for key, val in mydict.items() if val >= minct}
+
+# Take in react and return how many of those reacts each user received
 def receivers_of_react(data, react):
     mydict = {}
     user_dict = init_user_dict(data)
@@ -43,7 +84,7 @@ def receivers_of_react(data, react):
                     mydict[user] = 1
     return mydict
 
-# Take in react and return user who sent most reacts of that type
+# Take in react and return how many of those reacts each user sent
 def senders_of_react(data, react):
     mydict = {}
     user_dict = init_user_dict(data)
@@ -56,23 +97,6 @@ def senders_of_react(data, react):
                 else:
                     mydict[user] = 1
     return mydict
-
-# Returns either receiver of react or sender of react
-def users_vs_reacts(data, receive):
-    mydict = {}
-    for name, react in reacts.items():
-        mydict[name] = receivers_of_react(data, react) if receive else senders_of_react(data, react)
-    return mydict
-    
-# Return messages with most reacts
-def messages_with_most_reacts(data):
-    mydict = {}
-    messages = data["messages"]
-    for message in messages:
-        if "content" in message and "reactions" in message:
-            mydict[message["content"]] = len(message["reactions"])
-    maxct = max(val for val in mydict.values())
-    return [key for key, val in mydict.items() if val == maxct]
     
 # Take in a user and return the frequency of reacts they received
 def reacts_for_user(data, target):
@@ -81,7 +105,7 @@ def reacts_for_user(data, target):
     for user, reacts in user_dict.items():
         if user == target:
             for content, meta in reacts.items():
-                react = meta["react"]
+                react = list(reactions.keys())[list(reactions.values()).index(meta["react"])]
                 if react in mydict:
                     mydict[react] += 1
                 else:
@@ -96,7 +120,7 @@ def num_reacts_by_actor(data, target):
         if user == target:
             for content, meta in reacts.items():
                 actor = meta["actor"]
-                react = meta["react"]
+                react = list(reactions.keys())[list(reactions.values()).index(meta["react"])]
                 if actor in mydict:
                     if react in mydict[actor]:
                         mydict[actor][react] += 1
@@ -107,13 +131,37 @@ def num_reacts_by_actor(data, target):
                     mydict[actor][react] = 1
     return mydict
 
+# Loop over reacts and call a method (that takes in a react)
+def react_loop(data, method):
+    mydict = {}
+    for name, react in reactions.items():
+        mydict[name] = method(data, react)
+    return mydict
+
+# Loop over users and call a method (that takes in a user)
+def user_loop(data, method):
+    mydict = {}
+    participants = data["participants"]
+    for participant in participants:
+        mydict[participant["name"]] = method(data, participant["name"])
+    return mydict
+
 def main():
     with open('dont_commit.json') as f:
         data = json.load(f)
-    
-    mydict = num_reacts_per_user(data)
+
+    # mydict = num_messages_per_user(data)
+    # mydict = num_reacts_per_user(data)
+    # mydict = messages_with_at_least_min_reacts(data, 7)
+    # mydict = react_loop(data, receivers_of_react)
+    # mydict = react_loop(data, senders_of_react)
+    # mydict = user_loop(data, reacts_for_user)
+    mydict = user_loop(data, num_reacts_by_actor)
+
     for k, v in mydict.items():
-        print(k, v)
+        # print(k, v)
+        for k1, v1 in v.items():
+            print(k, k1, v1)
 
 if __name__ == '__main__':
     main()
