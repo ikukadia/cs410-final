@@ -15,7 +15,8 @@
 - Night owl vs Early bird *Suhi/ELaine*
 - Calc number of messages/reacts per user - *Isha*
 - Get messages with a minimum amount of reacts - *Isha*
-- Breakdown of reacts that users send/receive - *Isha*
+- Frequency of reacts that users send/receive - *Isha*
+- Breakdown (by actor) of reacts that users send/receive - *Isha*
 - **Visualization? (VEGA/d3)?**
 - Pretty print stats *Suhi/ELaine*
 - Most used words (*) -- without stop words, unique (least used) words - *Aishik*
