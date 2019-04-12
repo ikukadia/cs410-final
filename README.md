@@ -23,5 +23,5 @@
    * whether next occurring message contains the same words/phrases (to see if next message was actually relevant to given message)
 10. Analysis of visual media (who sends the most stickers, GIFs, etc.) - *Suhi/ELaine*
 11. Who starts the most number of polls - *Irdina*
-12. Clean up/pOxygen - *Irdina*
+12. Clean up/pOxygen
 
