@@ -1,12 +1,11 @@
 # Progress
 
 ## Implemented features
-1. Ranking of who receives the most of given react
-2. Who reacted the most to a given user
-3. Most misspelled words
-4. Who gives the most of each type of reactions
-5. Who starts the most number of polls
-6. Most mentioned (@) 
+- Who sends/receives the most reacts and what reacts they send/receive and to/from whom
+- Messages with at least a certain amount of reacts (most reacted messages)
+- Most misspelled words
+- Who starts the most number of polls
+- Most mentioned (@) 
 
 
 
