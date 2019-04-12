@@ -1,6 +1,8 @@
 import json
 from utils import get_participants
 
+# Param: the entire json file from Facebook
+# Return: dictionary of user and how many times they have been mentioned in a message
 def most_mentioned(data):
     mydict = {}
     messages = data["messages"]
