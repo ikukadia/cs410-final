@@ -67,9 +67,9 @@ def messages_with_at_least_min_reacts(data, minct):
     messages = data["messages"]
     for message in messages:
         if "content" in message and "reactions" in message:
-            mydict[message["content"]] = len(message["reactions"])
-    # maxct = max(val for val in mydict.values())
-    return {key: val for key, val in mydict.items() if val >= minct}
+            if len(message["reactions"]) >= minct:
+                mydict[message["content"]] = message["reactions"]
+    return mydict
 
 # Take in react and return how many of those reacts each user received
 def receivers_of_react(data, react):
@@ -184,18 +184,18 @@ def main():
 
     # mydict = num_messages_per_user(data)
     # mydict = num_reacts_per_user(data)
-    # mydict = messages_with_at_least_min_reacts(data, 7)
+    mydict = messages_with_at_least_min_reacts(data, 7)
     # mydict = react_loop(data, receivers_of_react)
     # mydict = react_loop(data, senders_of_react)
     # mydict = user_loop(data, reacts_for_user)
     # mydict = user_loop(data, reacts_by_user)
     # mydict = user_loop(data, num_reacts_by_actor_for_user)
-    mydict = user_loop(data, num_reacts_by_actor_by_user)
+    # mydict = user_loop(data, num_reacts_by_actor_by_user)
 
     for k, v in mydict.items():
-        # print(k, v)
-        for k1, v1 in v.items():
-            print(k, k1, v1)
+        print(k, v)
+        # for k1, v1 in v.items():
+            # print(k, k1, v1)
 
 if __name__ == '__main__':
     main()
