@@ -1,7 +1,7 @@
 import json
 from utils import get_participants
 
-def created_poll(data):
+def most_mentioned(data):
     mydict = {}
     messages = data["messages"]
     for message in messages:
@@ -18,7 +18,7 @@ def created_poll(data):
 def main():
     with open('dont_commit.json') as f:
         data = json.load(f)
-    print(created_poll(data))
+    print(most_mentioned(data))
 
 if __name__ == '__main__':
     main()
