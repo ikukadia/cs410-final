@@ -41,7 +41,7 @@ def get_misspells_dict(data):
     count = 0
     for message in all_messages:
         count += 1
-        if count > 5000:
+        if count > 1000:
             break
         if ("content" in message):
             text = message["content"]
