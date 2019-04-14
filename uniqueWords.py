@@ -2,6 +2,12 @@ import json
 import multiprocessing
 from concurrent.futures import ThreadPoolExecutor
 import time
+from collections import Counter 
+from nltk.corpus import stopwords
+import nltk
+nltk.download('stopwords')
+
+en_stops = set(stopwords.words('english'))
 
 
 def concatonate(participant, messages):
@@ -10,11 +16,26 @@ def concatonate(participant, messages):
     for i in range(len(messages)):
         if messages[i]['sender_name'] == participant:
             try:
-                if(messages[i]['content']):
+                if(messages[i]['content'] and 
+                "joined the" not in messages[i]['content'] and "voted for" not in messages[i]['content']
+                and "set your nickname" not in messages[i]['content'] 
+                and "set the nickname" not in messages[i]['content'] and "created a poll" not in messages[i]['content']):
                     a += " " + messages[i]['content'].lower()
+                
             except KeyError:
                 pass
     words = a.split()
+    real_words = []
+
+    for i in range(len(words)):
+        if words[i] not in en_stops:
+            real_words.append(words[i])
+
+       
+
+    gg = Counter(real_words)
+    most_occur = gg.most_common(20)
+    print(most_occur)
     num_words = len(words)
 
     s = set(words)
@@ -35,6 +56,9 @@ if __name__ == "__main__":
 
     for i in range(len(participant_list)):
         print(participant_list[i])
+       
         print(concatonate(participant_list[i]['name'], messages))
+        print("----------------------------------")
     end = time.time()
     print(end -start)
+
