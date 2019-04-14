@@ -42,11 +42,9 @@ def concatonate(participant, messages):
     return len(s)/num_words
 
 
-if __name__ == "__main__":
+def main():
     start = time.time()
-    
-   
-    with open('message_1.json', 'r') as f:
+    with open('dont_commit.json', 'r') as f:
         messenger_dict = json.load(f)
     participant_list = messenger_dict['participants']
     messages = messenger_dict['messages']
@@ -62,3 +60,5 @@ if __name__ == "__main__":
     end = time.time()
     print(end -start)
 
+if __name__ == '__main__':
+    main()
