@@ -43,11 +43,12 @@ def set_emoji(data):
         if ("content" in message.keys() and "set the emoji to" in message["content"]):
             for user in get_participants(data):
                 if (user) in message["sender_name"]:
-                    #emoji = message["content"].split("to",1)[1] 
-                    if(user in mydict.keys()):
-                        mydict[user] += 1
+                    emoji = message["content"].split("to",1)[1] 
+                    #emoji = " \u00f0\u009f\u0094\u00a5"
+                    if(user+emoji in mydict.keys()):
+                        mydict[user+emoji] += 1
                     else:
-                        mydict[user] = 1
+                        mydict[user+emoji] = 1
     return mydict
 
 def main():
