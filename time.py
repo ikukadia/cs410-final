@@ -19,7 +19,7 @@ def init():
     return data
 
 
-
+print(time_range_analysis(init(), 0, 5))
 
 
 
