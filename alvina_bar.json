@@ -1,13 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v4.0.json",
-    "width": 400,
-    "height": 200,
+    "width": 600,
+    "height": 400,
     "padding": 5,
   
     "data": [
       {
         "name": "table",
-        "url": "poll_data.json"
+        "url": "common_words.json"
       }
     ],
   
@@ -70,7 +70,7 @@
             "fill": {"value": "#333"}
           },
           "update": {
-            "x": {"scale": "xscale", "signal": "tooltip.category", "band": 0.5},
+            "x": {"scale": "xscale", "signal": "tooltip.category", "band": 2},
             "y": {"scale": "yscale", "signal": "tooltip.amount", "offset": -2},
             "text": {"signal": "tooltip.amount"},
             "fillOpacity": [

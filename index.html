@@ -7,12 +7,38 @@
 
 <body>  
   <div id="vis"></div>
-  
+  <div id="vis2"></div>
+  <div id="vis3"></div>
   <script>
     const spec = "bar.vg.json";
   	vegaEmbed('#vis', spec)
       // result.view provides access to the Vega View API
       .then(result => console.log(result))
       .catch(console.warn);
+
+    const spec2 = "test.json";
+  	vegaEmbed('#vis2', spec2)
+      // result.view provides access to the Vega View API
+      .then(result => console.log(result))
+      .catch(console.warn);
+
+    const spec3 = "alvina_bar.json";
+  	vegaEmbed('#vis3', spec3)
+      // result.view provides access to the Vega View API
+      .then(result => console.log(result))
+      .catch(console.warn);
   </script>
 </body>
+
+<!--<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/2.6.5/vega.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/1.3.1/vega-lite.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/2.2.0/vega-embed.js" charset="utf-8"></script>   
+</head>
+
+<body>
+    <div id="vis"></div>
+</body> -->

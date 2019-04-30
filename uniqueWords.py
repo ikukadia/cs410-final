@@ -9,8 +9,9 @@ nltk.download('stopwords')
 
 en_stops = set(stopwords.words('english'))
 
+json_array= []
 
-def concatonate(participant, messages):
+def concatenate(participant, messages):
     a = ""
 
     for i in range(len(messages)):
@@ -31,15 +32,22 @@ def concatonate(participant, messages):
         if words[i] not in en_stops:
             real_words.append(words[i])
 
-       
-
     gg = Counter(real_words)
     most_occur = gg.most_common(20)
+    #print("hello")
     print(most_occur)
+    json_array = []
+    
     num_words = len(words)
+    for i in most_occur:
+        word_dict = {}
+        word_dict["category"] = i[0]
+        word_dict["amount"] = i[1] 
+        json_array.append(word_dict)
 
     s = set(words)
-    return len(s)/num_words
+    print(json_array)
+    return json.dumps(json_array)
 
 
 def main():
@@ -49,16 +57,20 @@ def main():
     participant_list = messenger_dict['participants']
     messages = messenger_dict['messages']
 
-    jobs = []
-    threads = len(participant_list)
+    f = open("common_words.json", "w+")
+    f.write(concatenate(participant_list[6]['name'], messages))
+    f.close()
+    
+    # jobs = []
+    # threads = len(participant_list)
 
-    for i in range(len(participant_list)):
-        print(participant_list[i])
+    # for i in range(len(participant_list)):
+    #     print(participant_list[i])
        
-        print(concatonate(participant_list[i]['name'], messages))
-        print("----------------------------------")
-    end = time.time()
-    print(end -start)
+    #     print(concatonate(participant_list[i]['name'], messages))
+    #     print("----------------------------------")
+    # end = time.time()
+    # print(end -start)
 
 if __name__ == '__main__':
     main()
