@@ -8,7 +8,7 @@ def get_messages(data, user):
     if user not in participants:
         return []
     messages = list(filter(lambda x: x["sender_name"] == user, data["messages"]))
-    print(messages)
+    #print(messages)
     return messages
 
 # returns a list of participants in given JSON
