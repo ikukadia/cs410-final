@@ -54,12 +54,15 @@ def main():
     start = time.time()
     with open('dont_commit.json', 'r') as f:
         messenger_dict = json.load(f)
+    
     participant_list = messenger_dict['participants']
     messages = messenger_dict['messages']
 
     f = open("common_words.json", "w+")
-    f.write(concatenate(participant_list[6]['name'], messages))
+    f.write(concatenate(participant_list[5]['name'], messages))
     f.close()
+
+    
     
     # jobs = []
     # threads = len(participant_list)
