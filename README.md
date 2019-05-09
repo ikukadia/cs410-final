@@ -4,7 +4,8 @@
 - Run python -m http.server
 - Go to http://localhost:8000/
 
-
+## Introduction
+Facebook Messenger plays an enormous role in the every day lives of CS@UIUC students. We were curious to see 
 ## Implemented features
 - Who sends/receives the most reacts and what reacts they send/receive and to/from whom
 - Messages with at least a certain amount of reacts (and what those reacts were/who reacted with them)
