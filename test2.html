@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="./app.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script></head>
+
+<body>
+    <p>
+        Please specify a file, or a set of files:<br>
+        <input type="file" id="input-file" size="40">
+    </p>
+    <textarea id="content-target"></textarea>
+
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+        <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
+        <li><a data-toggle="tab" href="#menu2">Menu 2</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+            <h3>Graph 1</h3>
+            <p>graph stuff</p>
+        </div>
+        <div id="menu1" class="tab-pane fade">
+            <h3>Graph 2</h3>
+            <p>graph stuff</p>
+        </div>
+        <div id="menu2" class="tab-pane fade">
+            <h3>Graph 3</h3>
+            <p>graph stuff</p>
+        </div>
+    </div>
+</body>
+
+</html>
+window.addEventListener("load", onLoad);
+
+function onLoad() {
+    document.getElementById('input-file').addEventListener('change', getFile)
+
+    function getFile(event) {
+        const input = event.target
+        if ('files' in input && input.files.length > 0) {
+            placeFileContent(document.getElementById('content-target'), input.files[0])
+        }
+    }
+    
+    function placeFileContent(target, file) {
+        readFileContent(file).then(content => {
+              target.value = content
+        }).catch(error => console.log(error))
+    }
+    
+    function readFileContent(file) {
+        const reader = new FileReader()
+        return new Promise((resolve, reject) => {
+            reader.onload = event => resolve(event.target.result)
+            reader.onerror = error => reject(error)
+            reader.readAsText(file)
+        })
+    }
+}
