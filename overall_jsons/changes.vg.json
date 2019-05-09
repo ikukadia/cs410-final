@@ -4,10 +4,11 @@
     "height": 200,
     "padding": 5,
   
+    "title": "Number of times each User has changed a the chat Emoji",
     "data": [
       {
         "name": "table",
-        "url": "./../changes.json"
+        "url": "changes.json"
       }
     ],
   
@@ -54,10 +55,10 @@
             "y2": {"scale": "yscale", "value": 0}
           },
           "update": {
-            "fill": {"value": "steelblue"}
+            "fill": {"value": "purple"}
           },
           "hover": {
-            "fill": {"value": "pink"}
+            "fill": {"value": "#F0A418"}
           }
         }
       },

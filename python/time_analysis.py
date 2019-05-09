@@ -12,14 +12,16 @@ def time_range_analysis(data, start, end):
             if int(hour) >= start and int(hour) <= (end - 1):
                 num_messages[user] += 1
     return num_messages
-
 def init():
     with open('dont_commit.json') as file:
         data = json.load(file)
     return data
 
+def main():
+    print(time_range_analysis(init(), 0, 5))
 
-print(time_range_analysis(init(), 0, 5))
 
 
 
+if __name__ == '__main__':
+    main()

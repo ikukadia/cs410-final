@@ -4,6 +4,7 @@
     "height": 200,
     "padding": 5,
   
+    "title": "Number of times each User has been mentioned",
     "data": [
       {
         "name": "table",
@@ -54,10 +55,10 @@
             "y2": {"scale": "yscale", "value": 0}
           },
           "update": {
-            "fill": {"value": "steelblue"}
+            "fill": {"value": "purple"}
           },
           "hover": {
-            "fill": {"value": "pink"}
+            "fill": {"value": "#F0A418"}
           }
         }
       },

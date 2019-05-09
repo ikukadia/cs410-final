@@ -1,0 +1,3314 @@
+{
+  "participants": [
+    {
+      "name": "Elaine Wang"
+    },
+    {
+      "name": "Irdina Nadeem"
+    },
+    {
+      "name": "Isha Kukadia"
+    },
+    {
+      "name": "Omar Mbarki"
+    },
+    {
+      "name": "Aishik Ghosh"
+    },
+    {
+      "name": "Suhirtha Raj"
+    },
+    {
+      "name": "Alvina Waseem"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1557179845960,
+      "content": "Wish we could take it twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1557179839419,
+      "content": "I'm going to miss 410 so much next year!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1557178909442,
+      "content": "thanks, you too!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1557177792227,
+      "content": "Gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1557177791926,
+      "content": "Awww thanks omar!! \u00f0\u009f\u0098\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1557177782450,
+      "content": "Like 2 days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1557177775886,
+      "content": "is due soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1557177771729,
+      "content": "Wow 410",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1557177740572,
+      "content": "Hope you guys do great on finals!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1556572595003,
+      "content": "Haven't seen you guys in a while",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1556572573140,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1556570260697,
+      "content": "i about died",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1556570248531,
+      "content": "pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1556570240643,
+      "content": "oh nvm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555383741042,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555383401482,
+      "content": "Aishik joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555383392211,
+      "content": "daddy omar joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555383366498,
+      "content": "go green kids joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555383363710,
+      "content": "Suhirtha joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555383359710,
+      "content": "Suhirtha started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555363899297,
+      "content": "my fast is going badly i already have a headache",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555363353451,
+      "content": "Wow I'm so sad I ordered the beef fried rice from pho cafe and then I looked up to see it was raised to $10 but it was too late",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555354476566,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57180266_820462521656781_791893571681648640_n_820462518323448.png",
+          "creation_timestamp": 1555354475
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555354474879,
+      "content": "guess i gotta watch the show before my internship \u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555353337750,
+      "content": "Y'all I rly went for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555353333865,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57503005_1254081178072884_3752721064925331456_n_1254081151406220.jpg",
+          "creation_timestamp": 1555353333
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555351740694,
+      "content": "suhi ru gonna ask wade what we should put",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555351632052,
+      "content": "nope",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555350613849,
+      "content": "so is there a quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555349742672,
+      "content": "is that a yes omar",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555349484520,
+      "content": "look it up on google if it doesn't work",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555349470266,
+      "content": "https://my.cs.illinois.edu/indstudy/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555349358463,
+      "content": "how do u feel about going to diff eq and telling me if there\u00e2\u0080\u0099s a quiz",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555349346482,
+      "content": "also @Omar Mbarki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555349342209,
+      "content": "send the link kid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555349339128,
+      "content": "what page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555347759681,
+      "content": "I see 397, 499 and 597",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555347751082,
+      "content": "But don't see option for 497",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555347744368,
+      "content": "I found the page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555347102123,
+      "content": "fantastic!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555346575979,
+      "content": "Cheng's gonna send a screenshot of this to wade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555346132919,
+      "content": "fantastic!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555346102571,
+      "content": "Lol wade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555346098572,
+      "content": "Pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555346093458,
+      "content": "lol right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555346068151,
+      "content": "The link doesn\u00e2\u0080\u0099t work?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555346059296,
+      "content": "SOO EXCITED",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555346054971,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57015613_637647983314639_7740431107853647872_n_637647963314641.jpg",
+          "creation_timestamp": 1555346054
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555295264611,
+      "content": "Alvina named the group 410 project group.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555285465689,
+      "content": "can't wait for cheng to read that one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555284927055,
+      "content": "It\u00e2\u0080\u0099s completion",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555284920805,
+      "content": "Its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555284778467,
+      "content": "i can't do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555284774064,
+      "content": "guys what if we don't have a gui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555276408274,
+      "content": "maybe aishik and akshaya should room together",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555276120835,
+      "content": "you never know when anyone's joking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555276071167,
+      "content": "but I don\u00e2\u0080\u0099t think she\u00e2\u0080\u0099s joking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555276063730,
+      "content": "first I laughed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555276059433,
+      "content": "akshaya really told me how global warming must not be real because it\u00e2\u0080\u0099s so cold",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555214367304,
+      "content": "@Aishik Ghosh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555214365152,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56985392_1055904517927107_2894349534169661440_n_1055904514593774.png",
+          "creation_timestamp": 1555214364
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555201799368,
+      "content": "ours is better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555201793042,
+      "content": "Wow all these kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555201770244,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56960659_561088234401434_2803874995812433920_n_561088224401435.jpg",
+          "creation_timestamp": 1555201769
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555201768441,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56899577_387033321897795_388265455875260416_n_387033301897797.jpg",
+          "creation_timestamp": 1555201767
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555200302283,
+      "content": "Wow gotten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555200252556,
+      "content": "it has already been done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555200246328,
+      "content": "we were gotten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555200242673,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57155106_354541845165342_4548548483052732416_n_354541825165344.jpg",
+          "creation_timestamp": 1555200242
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555200067794,
+      "content": "My rippling thighs \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555200049651,
+      "content": "U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555200041080,
+      "content": "who\u00e2\u0080\u0099s posting on subtle curry traits kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555199038247,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555198954717,
+      "content": "daddy omar joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555198949522,
+      "content": "go green kids joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555198948183,
+      "content": "Isha joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555198943825,
+      "content": "Suhirtha joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555198942279,
+      "content": "Suhirtha started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555198936458,
+      "content": "kids can we go to grainger to do work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555197695942,
+      "content": "Always some guy in the top right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555197688418,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56949234_687358438347088_1082933629539057664_n_687358408347091.jpg",
+          "creation_timestamp": 1555197687
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555197622874,
+      "content": "Pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555197609635,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57029113_2333601866929517_7433081435675688960_n_2333601860262851.jpg",
+          "creation_timestamp": 1555197609
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555194302308,
+      "content": "https://photos.app.goo.gl/gN94fypVJWobHSTf8",
+      "share": {
+        "link": "https://photos.google.com/share/AF1QipO4LWrW6zKFBa-n46rh8zymfEjQb9ejBDIrqvdW3bLWuX3e98UnyhXSfA4puUmcMw?key=a2FBSWhZQU1aeXUyRzR4STNqVHQ2ZUdWZUNHT3N3"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555178544956,
+      "content": "Reminds me of hilmer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555177903210,
+      "content": "what a great day to be alive and learn about text analysis!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555137661740,
+      "content": "insane stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555137658275,
+      "content": "The face of a man who did not wanna keep talking to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555137642077,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555137634351,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/57066166_291111381805029_1662786280724889600_n_291111378471696.jpg",
+          "creation_timestamp": 1555137633
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555137284439,
+      "content": "go green kids joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555137227251,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/53502774_365711464026393_2142623239669547008_n_2310796595631500.png",
+          "creation_timestamp": 1555137226
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555137079810,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56899686_2023559777770592_4314933027001073664_n_2023559741103929.jpg",
+          "creation_timestamp": 1555137079
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555136973274,
+      "content": "peep me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136926554,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56828040_608449142986261_6851727392772194304_n_608449139652928.jpg",
+          "creation_timestamp": 1555136926
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136885678,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56887174_321366548574918_6708037780120797184_n_321366545241585.jpg",
+          "creation_timestamp": 1555136884
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555136574307,
+      "content": "Isha joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555136573394,
+      "content": "daddy omar joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136549101,
+      "content": "Alvina joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555136546422,
+      "content": "Suhirtha joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555136541568,
+      "content": "Suhirtha started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136190774,
+      "content": "Lol this route",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136188418,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56968269_2582198445186938_3873397620034502656_n_2582198375186945.jpg",
+          "creation_timestamp": 1555136187
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555136102453,
+      "content": "Where is it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136093464,
+      "content": "Ru going w suryaas group? Or do you want us to like go at the same time as them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555136065027,
+      "content": "Suryaa and her friends were meeting at hers at 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555136028268,
+      "content": "I thought it starts at 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555136020819,
+      "content": "idk how far away it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555136012862,
+      "content": "we can go around 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555135828717,
+      "content": "what time do we need to get up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555135505448,
+      "content": "gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555135499130,
+      "content": "The call ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555135496045,
+      "content": "Aishik joined the call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555135494963,
+      "content": "Aishik started a call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555135470556,
+      "content": "or like when are we planning to get there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555135461493,
+      "content": "are we all meeting here for holi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555130840575,
+      "content": "Please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555130803572,
+      "content": "she really is a 200 IQ genius",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129794751,
+      "content": "Bc mmap doesn't read so it won't use up ur RAM",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129779444,
+      "content": "Like just bc it's bigger than max u still want it to put so u use mmap instead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129765084,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129758925,
+      "content": "But you still want it to put",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129728455,
+      "content": "12",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129723972,
+      "content": "I had like a max variable so make sure it didn\u00e2\u0080\u0099t go over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129708937,
+      "content": "How many points do u have irdina?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129695782,
+      "content": "It was like the part talking about when u r trying to do a put but the file is bigger than ur ram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129669197,
+      "content": "I don\u00e2\u0080\u0099t use mmap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129662997,
+      "content": "What the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129567576,
+      "content": "Is too much the one using mmap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129535917,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555129494291,
+      "content": "Omar did you pass too little data and too much data",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129408222,
+      "content": "I didn't even fix make errors",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129403445,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555129397182,
+      "content": "*ag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555129394845,
+      "content": "Did you run again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555129389869,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129374256,
+      "content": "This 3 lines of code on this mp really took the life out of me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129353518,
+      "content": "Maybe irdina will be up for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555129338171,
+      "content": "I am 3 tired",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555129263743,
+      "content": "@Elaine Wang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555129259363,
+      "content": "League?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128901353,
+      "content": "I'm sure they'll smell their way home",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128883170,
+      "content": "please",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128879833,
+      "content": "Exactly y u should capture it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128877334,
+      "content": "it looks confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128866810,
+      "content": "I\u00e2\u0080\u0099m scared it\u00e2\u0080\u0099s lost??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128861358,
+      "content": "LIKE IT WOULD FIT IN MY PALM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128855682,
+      "content": "And gift it to me pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128851093,
+      "content": "Capture ut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128850157,
+      "content": "IT\u00e2\u0080\u0099S SO SMALL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128842500,
+      "content": "IN SCOTT PARK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555128837913,
+      "content": "THERE IS A TINY BUNNY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128683210,
+      "content": "But I guess it's better if u don't care",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128673645,
+      "content": "It washed out of my clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555128664324,
+      "content": "Anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555128587805,
+      "content": "What am I wearing for Holi tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555121223090,
+      "content": "oh my god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555121217179,
+      "content": "ahhhhhhhhhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555121213221,
+      "content": "oomph",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555120947618,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120942579,
+      "content": "Just you isha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120920407,
+      "content": "guess who",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120917342,
+      "content": "\"this man really implied we have a dirty mind when he has no mind\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555120892439,
+      "content": "i'm more educated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555120886696,
+      "content": "@Irdina Nadeem date me instead",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120878125,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120874318,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120871685,
+      "content": "Isha set the emoji to \u00f0\u009f\u0091\u0080.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120853741,
+      "content": "See when I call my dad that's not what I think about, don't know about you guys",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555120846411,
+      "content": "You\u00e2\u0080\u0099d be surprised what he doesn\u00e2\u0080\u0099t know",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120844167,
+      "content": "shook that u didnt know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555120821723,
+      "content": "how did you not know what daddy means",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120821398,
+      "content": "everyone ashik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555120813847,
+      "content": "that's what I'm saying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120813396,
+      "content": "Who would have thought",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120798274,
+      "content": "Wow Isha has a dirty mind",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120785340,
+      "content": "\u00f0\u009f\u0098\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120768318,
+      "content": "Isha set the emoji to \u00f0\u009f\u0098\u00b3.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120749725,
+      "content": "film your reaction",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120723775,
+      "content": "and look up daddy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120719379,
+      "content": "aishik go on urban dict",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120699699,
+      "content": "aishik is sad that his daddy isnt going",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555120685619,
+      "content": "99% no",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120681118,
+      "content": "Isha set the nickname for Omar Mbarki to daddy omar.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555120677046,
+      "content": "I said I'll see when I wake up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120561171,
+      "content": "Oh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555120555193,
+      "content": "Omar said he's not going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120535102,
+      "content": "Wow no news on daddy omar",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555120515599,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120299755,
+      "content": "but she already has a ticket?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120293473,
+      "content": "irdina also said she would come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120289782,
+      "content": "i already said that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120286985,
+      "content": "oh wiat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120284513,
+      "content": "me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120280722,
+      "content": "elaine, suhi, alvina",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120275166,
+      "content": "me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120272513,
+      "content": "me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120270798,
+      "content": "whose tix suhi bought",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120269690,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120260809,
+      "content": "teh 4 ppl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120255745,
+      "content": "thx houston",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555120217533,
+      "content": "Who's hundo p going",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555120178023,
+      "content": "ty",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555120151779,
+      "content": "i bought 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555120034804,
+      "content": "does anybody want us to buy their tickets rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555119930260,
+      "content": "btw food is another 10 dollars so that part is cancelled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555119838469,
+      "content": "https://www.universe.com/events/asha-uiuc-holi-2019-tickets-urbana-7Z35Y2?fbclid=IwAR3efVDHuRl-0SCEqPIgO62cl-k1eaIR_uBnbPfvEPkhrYMXydNNh_8qj5U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555109706109,
+      "content": "Isha named the group for cheng unately.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555109321509,
+      "content": "My spieling is perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555109127942,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555109101052,
+      "content": "Most commonly misspelled word in group chat: dpeaker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555108426199,
+      "content": "I love your dpeaker!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555108372624,
+      "content": "With my ear next to the dpeaker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555108357960,
+      "content": "This 50 min call with poor moon",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555108346839,
+      "content": "This milestone took 1 hr I'm so sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555108329588,
+      "content": "I'm heading back rn",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108325954,
+      "content": "You set the nickname for Elaine Wang to go green kids.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555108313948,
+      "content": "Go green kids",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108284525,
+      "content": "i mean iMessage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108277062,
+      "content": "You changed the chat colours.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108270423,
+      "content": "it feels like messenger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108265621,
+      "content": "what the why is it green",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555108254238,
+      "content": "how far are you guys cause I was thinking of heading down to start stretching and warm-up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555106753915,
+      "content": "but he talked on the phone so ridic loudly i swear the entire room could hear him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555106735068,
+      "content": "wow cute this guy called his friend while his gf was in the bathroom talking about how he thinks he should go through with buying the shiba from the third party website and he kept looking back to see if she was coming and then when she started coming back he switched to another language and hung up quick how cute",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106415280,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56890388_1228369533990856_4945451165404889088_n_1228369500657526.jpg",
+          "creation_timestamp": 1555106414
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106367847,
+      "content": "nah you should go to the movie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106347273,
+      "content": "La",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106333103,
+      "content": "La",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106327475,
+      "content": "ok guess im not going to this movie ill be back once i finish this milestone for ling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106326569,
+      "content": "La",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555106313037,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555106305986,
+      "content": "go green kids voted for \"today\" in the poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555106304781,
+      "content": "Alvina set the emoji to \u00f0\u009f\u0098\u0081.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555106275345,
+      "content": "Alvina changed the chat colours.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555106220680,
+      "content": "Suhirtha voted for \"today\" in the poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555105894351,
+      "content": "Aishik voted for \"today\" in the poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105838698,
+      "content": "the guy rly said grr out loud in the year 2019",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105826071,
+      "content": "this couple sitting at my table is so weird and annoying i'm gonna die",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105809886,
+      "content": "Wow gotten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105804478,
+      "content": "You voted for \"today\" in the poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105797876,
+      "content": "Alvina voted for \"today\" in the poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105793086,
+      "content": "excuse me tomorrow is holi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105785462,
+      "content": "You created a poll: Working out?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105781414,
+      "content": "i need to eat when i come back first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105773077,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105750618,
+      "content": "Are we working out today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105725238,
+      "content": "my app just says rain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105694986,
+      "content": "lol what the",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105690363,
+      "content": "It\u00e2\u0080\u0099s snowing on Sunday???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555105669429,
+      "content": "yall annoying asf",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555105634865,
+      "content": "Aww! How unfortunate!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555105585575,
+      "content": "okay!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105546864,
+      "content": "I have duty tonight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555105535115,
+      "content": "Sorry I can\u00e2\u0080\u0099t go to the marvel movie tonight \u00f0\u009f\u0098\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555098255988,
+      "content": "they were kinda running out of food when we went and it wasn't really that good so you guys didn't miss out",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555097643558,
+      "content": "I\u00e2\u0080\u0099m sad being me food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095536489,
+      "content": "Elaine's asleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095530991,
+      "content": "That's so much effort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095528964,
+      "content": "send elaine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095526313,
+      "content": "why are you all tragic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095519216,
+      "content": "That means I have to get up from the couch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095508727,
+      "content": "But",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095507375,
+      "content": "I could",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095500303,
+      "content": "just board",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095497782,
+      "content": "what is this gas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555095491758,
+      "content": "I'm feeling too lazy as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555095473904,
+      "content": "im not gonna come",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095470691,
+      "content": "I'm by the tent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555095412133,
+      "content": "I'm waiting for you guys to come from inside the union",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555095380194,
+      "content": "Who's already there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555094614576,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555094605080,
+      "content": "leaving now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555094313506,
+      "content": "Let's go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555094303092,
+      "content": "Jk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555094287510,
+      "content": "I thought aishik is here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555094271637,
+      "content": "debating between walking and bussing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555094251050,
+      "content": "aishik lmk when you leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555094238572,
+      "content": "elaine is still in bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555094235226,
+      "content": "I'm ready if we are going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555094188764,
+      "content": "I'm at the union so I'm basically there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555094116693,
+      "content": "final call kids are we meeting at langar at 2 or a little later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555093499923,
+      "content": "and I remembered her middle name was Maryam",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555093491234,
+      "content": "I just had a moment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555093485328,
+      "content": "her name was Rauwa Maryam Khaleel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555093474014,
+      "content": "did you know my best friend in third grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555093221076,
+      "content": "I\u00e2\u0080\u0099m gonna do it with maryam and Ismael",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555093210404,
+      "content": "This is so cute and funny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555093199523,
+      "content": "I love this class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555093196584,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=K5aVRDE_Qno"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555093195755,
+      "content": "wow guys I was watching the videos for 410 and they were so much fun!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555092186537,
+      "content": "I wake up and my arms are in pain \u00f0\u009f\u0098\u00ad",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555091698709,
+      "content": "I don\u00e2\u0080\u0099t know enough stretches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555091692580,
+      "content": "@Alvina Waseem I knew it only my upper body is sore",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555091621770,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555091521573,
+      "content": "2?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555091518717,
+      "content": "when does diff eq end again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555091112577,
+      "content": "After diff eq?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555090905425,
+      "content": "but we have diff eq rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555090894101,
+      "content": "I just need an excuse to wear brown clothes pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090497500,
+      "content": "I could go rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555090438937,
+      "content": "what time are you guys thinking of going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555090328194,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56823272_2253323264713719_3415661184110559232_n_2253323261380386.png",
+          "creation_timestamp": 1555090327
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Aishik Ghosh"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090199304,
+      "content": "where is this happening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090195521,
+      "content": "ooo I c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555090170652,
+      "content": "scroll up a lil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090148263,
+      "content": "what's that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555090139674,
+      "content": "holi is tmrw we're talking about langar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090115067,
+      "content": "or tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555090109708,
+      "content": "wait is Holi today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555090087489,
+      "content": "kinda extra for a quick stop to get free food right",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555090005126,
+      "content": "Should I wear brown clothes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555089998854,
+      "content": "Are we going",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555089995334,
+      "content": "Probably not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555057777488,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56940381_1260070547479343_8114332037017501696_n_1260070544146010.png",
+          "creation_timestamp": 1555057776
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555057776429,
+      "content": "is this stuff we have to do too or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555056286669,
+      "content": "@Elaine Wang I forgot my shampoo again!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555053713744,
+      "content": "ic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555053712956,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555053704172,
+      "content": "btw for the pic: it's of the last 5000 messages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555053617885,
+      "content": "go green kids changed the chat colours.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555053504194,
+      "content": "Alvina set your nickname to 200 iq genius.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053458892,
+      "content": "have fun in code review tomorrow \u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053431927,
+      "content": "pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555053423409,
+      "content": "time to mute this chat too",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053332149,
+      "content": "but i'm really glowing up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053327328,
+      "content": "we thought aishik was the creative one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053322849,
+      "content": "imagine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555053320600,
+      "photos": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/photos/56962054_289202168664832_2017992041882976256_n_289202165331499.png",
+          "creation_timestamp": 1555053319
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053319840,
+      "content": "wow I'm so genius",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053316719,
+      "content": "we added slang right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053308338,
+      "content": "whoever changed the most things in the groupchat ex: name, photo, color, emoji, nicknames",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053292351,
+      "content": "guys I added another one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053282393,
+      "content": "I;m all for some fun",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555053277263,
+      "content": "okay @Elaine Wang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555053254757,
+      "content": "wb like 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555053249216,
+      "content": "do we have to be there at 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555053116417,
+      "content": "11-4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555053113746,
+      "content": "@Elaine Wang the food is before your code review",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052890570,
+      "sticker": {
+        "uri": "messages/stickers_used/18235334_1537972796227514_6535670408841003008_n_1537972789560848.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052832869,
+      "content": "lets play league",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Isha Kukadia"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052830431,
+      "content": "ur not going to sleep kiddo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555052824174,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555052819249,
+      "content": "and kind lives",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555052817243,
+      "content": "have sweet dreams",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555052812877,
+      "content": "i love you all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555052809487,
+      "content": "wow good night guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052573424,
+      "content": "I don't understand",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052455865,
+      "content": "she was being wholesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052425646,
+      "content": "@Isha Kukadia I don\u00e2\u0080\u0099t understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052424827,
+      "gifs": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/gifs/37858299_2252405678108596_2163070951900577792_n_293249344948680.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052414778,
+      "content": "im eating guac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555052343298,
+      "content": "imagine struggling that hard on typing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052342055,
+      "content": "Bold assumption that you passed all your classes (aka 498) to become a rising junior",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052318083,
+      "content": "not*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052316937,
+      "content": "a*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052309209,
+      "content": "on*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052303574,
+      "content": "joke*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052301582,
+      "content": "imagine struggling that hardon anot funny jokr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052291684,
+      "content": "tht took him 5 yrs to type",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052281653,
+      "content": "Much better!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555052277397,
+      "content": "Hey guys, my name is Omar and I'm a rising junior in computer science at the University of Illinois at Urbana Champaign! I can't wait to finally meet you guys \u00f0\u009f\u0098\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052271870,
+      "content": "h*ck sorry @Suhirtha Raj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052266574,
+      "content": "inappropriate content",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052250888,
+      "content": "@Alvina Waseem pls this chat is PG-13",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555052245322,
+      "content": "You're welcome @Elaine Wang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052235993,
+      "content": "Thank you @Aishik Ghosh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052232957,
+      "content": "analbilly",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555052229608,
+      "content": "Do you mean inability?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052228796,
+      "content": "can\u00e2\u0080\u0099t wait for this spelling mistake chart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052225068,
+      "content": "analbiliy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052217884,
+      "content": "anibility",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052209174,
+      "content": "i have an anibility to dream",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052200667,
+      "content": "ew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555052197806,
+      "content": "I'm so excited to finally meet you guys",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a0",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052194630,
+      "content": "pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052194213,
+      "content": "sweet dreams!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555052185792,
+      "content": "no thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555052183471,
+      "content": "Hey guys!!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052179642,
+      "content": "I hope you guys have a great night \u00f0\u009f\u0098\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555052170884,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052164880,
+      "content": "Hey there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555052161966,
+      "content": "Suhirtha voted for \"text and information systems\" in the poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555042536566,
+      "content": "Alvina voted for text and information systems in the poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042522248,
+      "content": "You voted for \"CS 410\" in the poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aishik Ghosh",
+      "timestamp_ms": 1555042513605,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555042509843,
+      "content": "go green kids voted for \"CS 410\" in the poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042499568,
+      "content": "You voted for \"Cs410\" in the poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042491832,
+      "content": "You created a poll: What\u00e2\u0080\u0099s your favorite class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042339511,
+      "content": "Let\u00e2\u0080\u0099s do a snateam pt. 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555042274674,
+      "sticker": {
+        "uri": "messages/stickers_used/11409214_1659201817658385_1128803633_n_1659201810991719.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555042263551,
+      "content": "the l in plsa stands for love",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042226618,
+      "content": "Even better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555042221213,
+      "content": "Very entertaining.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555042221145,
+      "gifs": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/gifs/50728926_244754123134457_963737287663812608_n_2030912790546187.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555042213104,
+      "content": "This is pretty much like our every group chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042205012,
+      "content": "Show me the edited one",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555042194616,
+      "gifs": [
+        {
+          "uri": "messages/inbox/410projectgroup_Oq0okJFhsw/gifs/50227234_419029538835591_4667661850454786048_n_662114770893388.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042191913,
+      "content": "No.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555042188192,
+      "content": "Thank you for being my friends.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555042168395,
+      "content": "I'm so happy that all of you are my friends.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042147091,
+      "content": "The 410 TAs are so nice",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Omar Mbarki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555042139581,
+      "sticker": {
+        "uri": "messages/stickers_used/18159084_1537972942894166_7210745109204172800_n_1537972936227500.png"
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Irdina Nadeem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555042130822,
+      "sticker": {
+        "uri": "messages/stickers_used/18235334_1537972796227514_6535670408841003008_n_1537972789560848.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042115994,
+      "content": "It\u00e2\u0080\u0099s like whatsapp",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Elaine Wang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555042114013,
+      "sticker": {
+        "uri": "messages/stickers_used/15043076_514564802001601_1037025857983479808_n_514564798668268.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042112484,
+      "content": "I can reply directly to your message cause of the update",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Suhirtha Raj",
+      "timestamp_ms": 1555042109011,
+      "content": "I love learning about text retrieval!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555042103303,
+      "content": "Cravings?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555042100544,
+      "content": "@Omar Mbarki sorry no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555042064565,
+      "content": "cheng is the best professor at uiuc",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Omar Mbarki",
+      "timestamp_ms": 1555042005322,
+      "content": "hey guys, can you please react with a \"laughing\" emoji on this message?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Suhirtha Raj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555041980342,
+      "content": "With my favorite kindest professor, cheng",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Suhirtha Raj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alvina Waseem",
+      "timestamp_ms": 1555041968431,
+      "content": "410 is my favorite class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555041967275,
+      "content": "you're so funny elaine!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Elaine Wang"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Irdina Nadeem",
+      "timestamp_ms": 1555041965877,
+      "content": "What\u00e2\u0080\u0099s up elaine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555041963744,
+      "content": "Y did u cry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555041949122,
+      "content": "Hi kids",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Irdina Nadeem"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Isha Kukadia"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Omar Mbarki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Suhirtha Raj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alvina Waseem"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Elaine Wang",
+      "timestamp_ms": 1555041945370,
+      "content": "Elaine waved hello to the group.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555041929561,
+      "content": "Isha named the group for cheng.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isha Kukadia",
+      "timestamp_ms": 1555041917739,
+      "content": "Isha created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "410 project group",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/410projectgroup_Oq0okJFhsw"
+}

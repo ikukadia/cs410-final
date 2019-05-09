@@ -184,7 +184,7 @@ def main():
 
     # mydict = num_messages_per_user(data)
     # mydict = num_reacts_per_user(data)
-    mydict = messages_with_at_least_min_reacts(data, 7)
+    # mydict = messages_with_at_least_min_reacts(data, 3)
     # mydict = react_loop(data, receivers_of_react)
     # mydict = react_loop(data, senders_of_react)
     # mydict = user_loop(data, reacts_for_user)

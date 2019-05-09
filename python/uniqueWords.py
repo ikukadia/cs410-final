@@ -61,17 +61,6 @@ def main():
     f = open("common_words.json", "w+")
     f.write(concatenate(participant_list[5]['name'], messages))
     f.close()
-    
-    # jobs = []
-    # threads = len(participant_list)
-
-    # for i in range(len(participant_list)):
-    #     print(participant_list[i])
-       
-    #     print(concatonate(participant_list[i]['name'], messages))
-    #     print("----------------------------------")
-    # end = time.time()
-    # print(end -start)
 
 if __name__ == '__main__':
     main()
