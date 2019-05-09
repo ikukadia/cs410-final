@@ -1,0 +1,1 @@
+[{"category": "Omar Mbarki", "amount": 48}, {"category": "Aishik Ghosh", "amount": 79}, {"category": "Isha Kukadia", "amount": 36}, {"category": "Suhirtha Raj", "amount": 44}, {"category": "Alvina Waseem", "amount": 36}, {"category": "Elaine Wang", "amount": 64}, {"category": "Irdina Nadeem", "amount": 47}]
