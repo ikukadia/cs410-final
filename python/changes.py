@@ -1,5 +1,5 @@
 import json
-from utils import get_participants
+from utils import get_participants, format_dict
 
 # This function returns how many times a user's nickname has been changed 
 # and how many times a user has changed a nickname 
@@ -40,12 +40,19 @@ def set_emoji(data):
                         mydict[user] += 1
                     else:
                         mydict[user] = 1
+    print(mydict)
     return mydict
+
 
 def main():
     with open('dont_commit.json') as f:
         data = json.load(f)
-    print(set_nickname(data))
-    print(set_emoji(data))
+    #print(set_nickname(data))
+    print(format_dict(set_emoji(data)))
+
+    f = open("./../changes.txt", "w+")
+    f.write(format_dict(set_emoji(data)))
+    f.close()
+
 if __name__ == '__main__':
     main()
