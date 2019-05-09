@@ -13,10 +13,10 @@
     const spec = "bar.vg.json";
   	vegaEmbed('#vis', spec)
       // result.view provides access to the Vega View API
-      .then(result => console.log(result))
+      //.then(result => console.log(result))
       .catch(console.warn);
 
-    const spec2 = "test.json";
+    const spec2 = "./word_cloud/vega/Aishik Ghosh_words.vg.json";
   	vegaEmbed('#vis2', spec2)
       // result.view provides access to the Vega View API
       .then(result => console.log(result))
